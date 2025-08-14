@@ -1,0 +1,4 @@
+{
+    "command": "npm run test",
+    "working_directory": "/tmp/kavia/workspace/code-generation/simple-task-tracker-637633-637642/todo_app_frontend"
+}
